@@ -1,0 +1,17 @@
+.custom-color {
+  background-color: #313f4d;
+}
+
+.nav-link {
+  color: white;
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.navbar-toggler-white {
+  border-color: white;
+}
+
+.navitem {
+  color: white;
+}
